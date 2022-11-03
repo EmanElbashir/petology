@@ -112,7 +112,7 @@ header .container span {
 
 /* 2- slider*/
 .slider {
-    background-image: url(../project-3/image/g-3.png);
+    background-image: url(./image/g-3.png);
     background-size: cover;
     background-repeat: no-repeat;
     z-index: -1;
@@ -248,7 +248,7 @@ header .container span {
 /*3- about-our*/
 .about-our {
     width: 100%;
-    background-image: url(../project-3/image/download.png);
+    background-image: url(./image/download.png);
     background-size: cover;
     position: relative;
     top: -320px;
